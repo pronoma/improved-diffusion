@@ -2,6 +2,7 @@
 
 This is the codebase for [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672).
 
+Some results of experiments performed by me are in the following slides: https://docs.google.com/presentation/d/1IHWp4SXvpobIJEpiJEBnlFwEKCPsC8xF9CVrADPPPTA/edit?usp=sharing
 # Usage
 
 This section of the README walks through how to train and sample from a model.
